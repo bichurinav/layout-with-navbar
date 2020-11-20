@@ -3,3 +3,4 @@
 
 ![small](images/small-screen.PNG)
 ![full](images/full-screen.PNG)
+![content](images/content.PNG)
