@@ -1,0 +1,20 @@
+.menu {
+
+    &__inner {
+        list-style-type: none;
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__item {
+        margin-bottom: 10px;
+    }
+
+    &__link {
+        display: inline-block;
+        width: 100%;
+        padding: 10px;
+        border: 1px solid silver;
+    }
+
+}

@@ -1,0 +1,18 @@
+.layout {
+
+    &__container {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        grid-template-rows: 1fr;
+        height: 100%;
+    }
+
+    &__navbar {
+        grid-column: 1;
+    }
+
+    &__content {
+        grid-column: 2;
+    }
+
+}
